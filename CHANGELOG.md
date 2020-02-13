@@ -6,7 +6,7 @@
 
 - Added `api_host` configuration property used by `NotifyDeploymentCommand`
 
-## v2.1.3
+## v2.2.0
 
 ### Added
 
